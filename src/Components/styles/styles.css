@@ -1,0 +1,15 @@
+h4{
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.dataDiv{
+    padding: 20px;
+    border: 1px dashed gray;
+    float: left;
+    margin: 30px 70px 20px 70px;
+}
